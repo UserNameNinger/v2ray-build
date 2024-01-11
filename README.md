@@ -79,13 +79,13 @@ https://www.v2fly.org/awesome/tools.html#%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7
 #####  2.2 下载并安装客户端并启动，在状态栏找到 v2ray 的图标并点击，开始客户端配置(以macOs下v2rayU 为例)，如下：
 ![开始配置](https://upload-images.jianshu.io/upload_images/16901119-419fd61e6c363b8d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/400)
 #####  2.3 下载并安装客户端并启动，在状态栏找到 v2ray 的图标并点击，开始客户端配置(以macOs下v2rayU 为例)，如下：
-![配置项](https://upload-images.jianshu.io/upload_images/16901119-0023c5d138a5653c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![配置项](https://upload-images.jianshu.io/upload_images/16901119-0023c5d138a5653c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
 > 其中服务端ip、端口、uuid，请确保和 `1.3 服务端参数配置` 中的一致
 #####  2.4 本地代理端口配置
 ![本地代理端口配置](https://upload-images.jianshu.io/upload_images/16901119-b80fb38e2958f312.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
 全部配置完成之后点击‘保存’保存配置信息。
 #####  2.5 选择服务器并开启代理
-![选择服务器](https://upload-images.jianshu.io/upload_images/16901119-02ab76cbc29fc90f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
+![选择服务器](https://upload-images.jianshu.io/upload_images/16901119-02ab76cbc29fc90f.png?imageMogr2/auto-orient/strip|imageView2/2/w/800/format/webp)
 ![开启代理](https://upload-images.jianshu.io/upload_images/16901119-4abffdc9f5fbac87.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
 如果需要在IDEA中使用，请配置IDEA的代理，如下：
 ![IDEA代理配置](https://upload-images.jianshu.io/upload_images/16901119-a7a2b192f1f018b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800)
